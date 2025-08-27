@@ -1,0 +1,6 @@
+data/
+script/
+__pycache__/
+
+*.pyc
+*.pth
